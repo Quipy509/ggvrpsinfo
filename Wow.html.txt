@@ -1,0 +1,47 @@
+﻿<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Wow</title>
+  <link rel="stylesheet" href="https://stackedit.io/style.css" />
+</head>
+
+<body class="stackedit">
+  <div class="stackedit__html"><p><img src="https://github.com/Quipy509/ggvrpsinfo/raw/main/1AB35DC8-6832-47A6-BD6C-8488869C0CFA.jpeg" alt="enter image description here"></p>
+<h1 id="generic-greenville-roleplay-server-info">Generic Greenville Roleplay Server Info</h1>
+<p>Welcome! This .md file contains all the info for GGVRPS.</p>
+<h3 id="banned-vehicles-list">Banned Vehicles List</h3>
+<h4 id="regular">Regular</h4>
+<p>2021 Vellfire VR Pioneer - BVE Tier 1<br>
+2021 BullHorn Prancer - BVE Tier 1<br>
+2021 BullHorn Denominator- BVE Tier 1<br>
+<strong>ANY LIMITED VEHICLE IS BANNED.</strong></p>
+<h4 id="luxury">Luxury</h4>
+<p>1996 Vellfire Pioneer - BVE<br>
+2000 Elysion Millenium - BVE<br>
+2006 Arrow Boomerang- BVE<br>
+2006 Chryslus Comercio - BVE<br>
+2012 Ferdinand Jalapeno - BVE<br>
+2015 Chevlon Calle - BVE<br>
+2015 Terrain Traveller Sport - BVE<br>
+2016 BKM Risen - BVE<br>
+2016 Piranha Summit - BVE<br>
+2019 BKM Dingolfing Coupe - BVE<br>
+2019 Leland XLS Limo - STAFF ONLY<br>
+2019 Mauntrly National GT - BVE<br>
+2020 BKM Risen Coupe / Roadster - BVE<br>
+2020 Sir Rodgers Constellation- BVE<br>
+2020 Sir Rodgers Sunlight - BVE<br>
+2020 Terrain Traveller Shield - BVE<br>
+2021 BKM Donner - BVE<br>
+2021 Colt Rilou - BVE<br>
+2021 Marlin Motors London - BVE<br>
+2021 Piranha F-Stride - BVE<br>
+2021 Romalpha Julie Quadluck - BVE<br>
+2021 Sentinel Adventurer Limo</p>
+</div>
+</body>
+
+</html>
